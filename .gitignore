@@ -1,0 +1,8 @@
+﻿#Folders
+/bin
+/obj
+/.lambda-test-tool
+
+
+#Files
+aws-lambda-tools-defaults.json
